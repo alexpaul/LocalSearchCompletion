@@ -1,0 +1,2 @@
+# LocalSearchCompletion
+Automatic search completion using MKLocalSearchCompleter
